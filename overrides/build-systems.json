@@ -174,6 +174,9 @@
   "boltztrap2": [
     "cython"
   ],
+  "botocore-stubs": [
+    "poetry-core"
+  ],
   "bracex": [
     "hatchling"
   ],
@@ -560,6 +563,9 @@
   ],
   "idasen": [
     "poetry-core"
+  ],
+  "idna": [
+    "flit-core"
   ],
   "imagecodecs-lite": [
     "cython"
@@ -1672,6 +1678,10 @@
   "terminaltables": [
     "poetry"
   ],
+  "termcolor": [
+    "hatchling",
+    "hatch-vcs"
+  ],
   "terminado": [
     "hatchling"
   ],
@@ -1776,6 +1786,9 @@
   "typical": [
     "poetry-core"
   ],
+  "types-awscrt": [
+    "poetry-core"
+  ],
   "types-s3transfer": [
     "poetry-core"
   ],
@@ -1790,6 +1803,9 @@
   ],
   "url-normalize": [
     "poetry-core"
+  ],
+  "uvicorn": [
+    "hatchling"
   ],
   "vehicle": [
     "poetry-core"
